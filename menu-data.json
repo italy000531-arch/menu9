@@ -1,0 +1,512 @@
+[
+  {
+    "month": 6,
+    "date": 1,
+    "weekday": "一",
+    "weekdayEn": "Monday",
+    "isHoliday": false,
+    "breakfast": "鮮奶饅頭、炒蛋",
+    "lunch": {
+      "staple": "白飯",
+      "main": "照燒雞丁",
+      "side1": "蒜香青江菜",
+      "side2": "玉米炒蛋",
+      "soup": "味噌豆腐湯",
+      "fruit": "香蕉"
+    },
+    "afternoon": "紅豆湯"
+  },
+  {
+    "month": 6,
+    "date": 2,
+    "weekday": "二",
+    "weekdayEn": "Tuesday",
+    "isHoliday": false,
+    "breakfast": "蔬菜蛋餅、豆漿",
+    "lunch": {
+      "staple": "糙米飯",
+      "main": "番茄肉醬",
+      "side1": "高麗菜",
+      "side2": "滷豆干",
+      "soup": "冬瓜排骨湯",
+      "fruit": "蘋果"
+    },
+    "afternoon": "地瓜球"
+  },
+  {
+    "month": 6,
+    "date": 3,
+    "weekday": "三",
+    "weekdayEn": "Wednesday",
+    "isHoliday": false,
+    "breakfast": "南瓜粥、荷包蛋",
+    "lunch": {
+      "staple": "白飯",
+      "main": "香煎魚排",
+      "side1": "炒菠菜",
+      "side2": "紅蘿蔔炒蛋",
+      "soup": "紫菜蛋花湯",
+      "fruit": "橘子"
+    },
+    "afternoon": "綠豆湯"
+  },
+  {
+    "month": 6,
+    "date": 4,
+    "weekday": "四",
+    "weekdayEn": "Thursday",
+    "isHoliday": false,
+    "breakfast": "起司吐司、鮮奶",
+    "lunch": {
+      "staple": "胚芽飯",
+      "main": "咖哩雞肉",
+      "side1": "有機小白菜",
+      "side2": "蒸南瓜",
+      "soup": "蘿蔔湯",
+      "fruit": "芭樂"
+    },
+    "afternoon": "水果優格"
+  },
+  {
+    "month": 6,
+    "date": 5,
+    "weekday": "五",
+    "weekdayEn": "Friday",
+    "isHoliday": false,
+    "breakfast": "蘿蔔糕、豆漿",
+    "lunch": {
+      "staple": "白飯",
+      "main": "打拋豬",
+      "side1": "花椰菜",
+      "side2": "甜椒炒菇",
+      "soup": "玉米濃湯",
+      "fruit": "鳳梨"
+    },
+    "afternoon": "銀耳甜湯"
+  },
+  {
+    "month": 6,
+    "date": 6,
+    "weekday": "六",
+    "weekdayEn": "Saturday",
+    "isHoliday": true,
+    "breakfast": "",
+    "lunch": {
+      "staple": "",
+      "main": "",
+      "side1": "",
+      "side2": "",
+      "soup": "",
+      "fruit": ""
+    },
+    "afternoon": ""
+  },
+  {
+    "month": 6,
+    "date": 7,
+    "weekday": "日",
+    "weekdayEn": "Sunday",
+    "isHoliday": true,
+    "breakfast": "",
+    "lunch": {
+      "staple": "",
+      "main": "",
+      "side1": "",
+      "side2": "",
+      "soup": "",
+      "fruit": ""
+    },
+    "afternoon": ""
+  },
+  {
+    "month": 6,
+    "date": 8,
+    "weekday": "一",
+    "weekdayEn": "Monday",
+    "isHoliday": false,
+    "breakfast": "南瓜粥、荷包蛋",
+    "lunch": {
+      "staple": "白飯",
+      "main": "香煎魚排",
+      "side1": "炒菠菜",
+      "side2": "紅蘿蔔炒蛋",
+      "soup": "紫菜蛋花湯",
+      "fruit": "橘子"
+    },
+    "afternoon": "綠豆湯"
+  },
+  {
+    "month": 6,
+    "date": 9,
+    "weekday": "二",
+    "weekdayEn": "Tuesday",
+    "isHoliday": false,
+    "breakfast": "起司吐司、鮮奶",
+    "lunch": {
+      "staple": "胚芽飯",
+      "main": "咖哩雞肉",
+      "side1": "有機小白菜",
+      "side2": "蒸南瓜",
+      "soup": "蘿蔔湯",
+      "fruit": "芭樂"
+    },
+    "afternoon": "水果優格"
+  },
+  {
+    "month": 6,
+    "date": 10,
+    "weekday": "三",
+    "weekdayEn": "Wednesday",
+    "isHoliday": false,
+    "breakfast": "蘿蔔糕、豆漿",
+    "lunch": {
+      "staple": "白飯",
+      "main": "打拋豬",
+      "side1": "花椰菜",
+      "side2": "甜椒炒菇",
+      "soup": "玉米濃湯",
+      "fruit": "鳳梨"
+    },
+    "afternoon": "銀耳甜湯"
+  },
+  {
+    "month": 6,
+    "date": 11,
+    "weekday": "四",
+    "weekdayEn": "Thursday",
+    "isHoliday": false,
+    "breakfast": "鮮奶饅頭、炒蛋",
+    "lunch": {
+      "staple": "白飯",
+      "main": "照燒雞丁",
+      "side1": "蒜香青江菜",
+      "side2": "玉米炒蛋",
+      "soup": "味噌豆腐湯",
+      "fruit": "香蕉"
+    },
+    "afternoon": "紅豆湯"
+  },
+  {
+    "month": 6,
+    "date": 12,
+    "weekday": "五",
+    "weekdayEn": "Friday",
+    "isHoliday": false,
+    "breakfast": "蔬菜蛋餅、豆漿",
+    "lunch": {
+      "staple": "糙米飯",
+      "main": "番茄肉醬",
+      "side1": "高麗菜",
+      "side2": "滷豆干",
+      "soup": "冬瓜排骨湯",
+      "fruit": "蘋果"
+    },
+    "afternoon": "地瓜球"
+  },
+  {
+    "month": 6,
+    "date": 13,
+    "weekday": "六",
+    "weekdayEn": "Saturday",
+    "isHoliday": true,
+    "breakfast": "",
+    "lunch": {
+      "staple": "",
+      "main": "",
+      "side1": "",
+      "side2": "",
+      "soup": "",
+      "fruit": ""
+    },
+    "afternoon": ""
+  },
+  {
+    "month": 6,
+    "date": 14,
+    "weekday": "日",
+    "weekdayEn": "Sunday",
+    "isHoliday": true,
+    "breakfast": "",
+    "lunch": {
+      "staple": "",
+      "main": "",
+      "side1": "",
+      "side2": "",
+      "soup": "",
+      "fruit": ""
+    },
+    "afternoon": ""
+  },
+  {
+    "month": 6,
+    "date": 15,
+    "weekday": "一",
+    "weekdayEn": "Monday",
+    "isHoliday": false,
+    "breakfast": "蘿蔔糕、豆漿",
+    "lunch": {
+      "staple": "白飯",
+      "main": "打拋豬",
+      "side1": "花椰菜",
+      "side2": "甜椒炒菇",
+      "soup": "玉米濃湯",
+      "fruit": "鳳梨"
+    },
+    "afternoon": "銀耳甜湯"
+  },
+  {
+    "month": 6,
+    "date": 16,
+    "weekday": "二",
+    "weekdayEn": "Tuesday",
+    "isHoliday": false,
+    "breakfast": "鮮奶饅頭、炒蛋",
+    "lunch": {
+      "staple": "白飯",
+      "main": "照燒雞丁",
+      "side1": "蒜香青江菜",
+      "side2": "玉米炒蛋",
+      "soup": "味噌豆腐湯",
+      "fruit": "香蕉"
+    },
+    "afternoon": "紅豆湯"
+  },
+  {
+    "month": 6,
+    "date": 17,
+    "weekday": "三",
+    "weekdayEn": "Wednesday",
+    "isHoliday": false,
+    "breakfast": "蔬菜蛋餅、豆漿",
+    "lunch": {
+      "staple": "糙米飯",
+      "main": "番茄肉醬",
+      "side1": "高麗菜",
+      "side2": "滷豆干",
+      "soup": "冬瓜排骨湯",
+      "fruit": "蘋果"
+    },
+    "afternoon": "地瓜球"
+  },
+  {
+    "month": 6,
+    "date": 18,
+    "weekday": "四",
+    "weekdayEn": "Thursday",
+    "isHoliday": false,
+    "breakfast": "南瓜粥、荷包蛋",
+    "lunch": {
+      "staple": "白飯",
+      "main": "香煎魚排",
+      "side1": "炒菠菜",
+      "side2": "紅蘿蔔炒蛋",
+      "soup": "紫菜蛋花湯",
+      "fruit": "橘子"
+    },
+    "afternoon": "綠豆湯"
+  },
+  {
+    "month": 6,
+    "date": 19,
+    "weekday": "五",
+    "weekdayEn": "Friday",
+    "isHoliday": false,
+    "breakfast": "起司吐司、鮮奶",
+    "lunch": {
+      "staple": "胚芽飯",
+      "main": "咖哩雞肉",
+      "side1": "有機小白菜",
+      "side2": "蒸南瓜",
+      "soup": "蘿蔔湯",
+      "fruit": "芭樂"
+    },
+    "afternoon": "水果優格"
+  },
+  {
+    "month": 6,
+    "date": 20,
+    "weekday": "六",
+    "weekdayEn": "Saturday",
+    "isHoliday": true,
+    "breakfast": "",
+    "lunch": {
+      "staple": "",
+      "main": "",
+      "side1": "",
+      "side2": "",
+      "soup": "",
+      "fruit": ""
+    },
+    "afternoon": ""
+  },
+  {
+    "month": 6,
+    "date": 21,
+    "weekday": "日",
+    "weekdayEn": "Sunday",
+    "isHoliday": true,
+    "breakfast": "",
+    "lunch": {
+      "staple": "",
+      "main": "",
+      "side1": "",
+      "side2": "",
+      "soup": "",
+      "fruit": ""
+    },
+    "afternoon": ""
+  },
+  {
+    "month": 6,
+    "date": 22,
+    "weekday": "一",
+    "weekdayEn": "Monday",
+    "isHoliday": false,
+    "breakfast": "蔬菜蛋餅、豆漿",
+    "lunch": {
+      "staple": "糙米飯",
+      "main": "番茄肉醬",
+      "side1": "高麗菜",
+      "side2": "滷豆干",
+      "soup": "冬瓜排骨湯",
+      "fruit": "蘋果"
+    },
+    "afternoon": "地瓜球"
+  },
+  {
+    "month": 6,
+    "date": 23,
+    "weekday": "二",
+    "weekdayEn": "Tuesday",
+    "isHoliday": false,
+    "breakfast": "南瓜粥、荷包蛋",
+    "lunch": {
+      "staple": "白飯",
+      "main": "香煎魚排",
+      "side1": "炒菠菜",
+      "side2": "紅蘿蔔炒蛋",
+      "soup": "紫菜蛋花湯",
+      "fruit": "橘子"
+    },
+    "afternoon": "綠豆湯"
+  },
+  {
+    "month": 6,
+    "date": 24,
+    "weekday": "三",
+    "weekdayEn": "Wednesday",
+    "isHoliday": false,
+    "breakfast": "起司吐司、鮮奶",
+    "lunch": {
+      "staple": "胚芽飯",
+      "main": "咖哩雞肉",
+      "side1": "有機小白菜",
+      "side2": "蒸南瓜",
+      "soup": "蘿蔔湯",
+      "fruit": "芭樂"
+    },
+    "afternoon": "水果優格"
+  },
+  {
+    "month": 6,
+    "date": 25,
+    "weekday": "四",
+    "weekdayEn": "Thursday",
+    "isHoliday": false,
+    "breakfast": "蘿蔔糕、豆漿",
+    "lunch": {
+      "staple": "白飯",
+      "main": "打拋豬",
+      "side1": "花椰菜",
+      "side2": "甜椒炒菇",
+      "soup": "玉米濃湯",
+      "fruit": "鳳梨"
+    },
+    "afternoon": "銀耳甜湯"
+  },
+  {
+    "month": 6,
+    "date": 26,
+    "weekday": "五",
+    "weekdayEn": "Friday",
+    "isHoliday": false,
+    "breakfast": "鮮奶饅頭、炒蛋",
+    "lunch": {
+      "staple": "白飯",
+      "main": "照燒雞丁",
+      "side1": "蒜香青江菜",
+      "side2": "玉米炒蛋",
+      "soup": "味噌豆腐湯",
+      "fruit": "香蕉"
+    },
+    "afternoon": "紅豆湯"
+  },
+  {
+    "month": 6,
+    "date": 27,
+    "weekday": "六",
+    "weekdayEn": "Saturday",
+    "isHoliday": true,
+    "breakfast": "",
+    "lunch": {
+      "staple": "",
+      "main": "",
+      "side1": "",
+      "side2": "",
+      "soup": "",
+      "fruit": ""
+    },
+    "afternoon": ""
+  },
+  {
+    "month": 6,
+    "date": 28,
+    "weekday": "日",
+    "weekdayEn": "Sunday",
+    "isHoliday": true,
+    "breakfast": "",
+    "lunch": {
+      "staple": "",
+      "main": "",
+      "side1": "",
+      "side2": "",
+      "soup": "",
+      "fruit": ""
+    },
+    "afternoon": ""
+  },
+  {
+    "month": 6,
+    "date": 29,
+    "weekday": "一",
+    "weekdayEn": "Monday",
+    "isHoliday": false,
+    "breakfast": "起司吐司、鮮奶",
+    "lunch": {
+      "staple": "胚芽飯",
+      "main": "咖哩雞肉",
+      "side1": "有機小白菜",
+      "side2": "蒸南瓜",
+      "soup": "蘿蔔湯",
+      "fruit": "芭樂"
+    },
+    "afternoon": "水果優格"
+  },
+  {
+    "month": 6,
+    "date": 30,
+    "weekday": "二",
+    "weekdayEn": "Tuesday",
+    "isHoliday": false,
+    "breakfast": "蘿蔔糕、豆漿",
+    "lunch": {
+      "staple": "白飯",
+      "main": "打拋豬",
+      "side1": "花椰菜",
+      "side2": "甜椒炒菇",
+      "soup": "玉米濃湯",
+      "fruit": "鳳梨"
+    },
+    "afternoon": "銀耳甜湯"
+  }
+]
